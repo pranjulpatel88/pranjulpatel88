@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs,**
 
-- 💬 Ask me about **React Nodejs JavaScript**
+- 💬 Ask me about ** java, Springboot, API, System design, Reactjs,  Nodejs, JavaScript **
 
 - 📫 How to reach me **pranjulpatel1998@gmail.com**
 
